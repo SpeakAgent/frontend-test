@@ -1,0 +1,11 @@
+[
+  {"word": "pen",
+    "image": "images/pen.png"
+  }, 
+  {"word": "blue",
+    "image": "images/blue.png"
+  },
+  {"word": "to walk",
+    "image": "images/walk.png"
+  }
+]

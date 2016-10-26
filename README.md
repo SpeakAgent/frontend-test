@@ -30,4 +30,4 @@ Submission process
 1. Make sure to use the assets provided in this repository.
 1. Once you are satisfied that all requirements (both technical and UX) have been met, submit a pull request.
 
-If you have any questions, please make sure to contact either Mal (mal@speakagent.com) or Katie (katie@speakagent.com)
+If you have any questions, please make sure to contact Katie (katie@speakagent.com)
